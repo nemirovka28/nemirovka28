@@ -2,7 +2,7 @@
 - 👀 I’m interested in web application development.
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate in interesting companies.
-- 📫 How to reach me: my mail:  cnemirovka@gmail.com ✨ telegram: @nemirovka ✨
+- 📫 How to reach me: mail:  cnemirovka@gmail.com ✨ telegram: @nemirovka ✨
 ______
 ### My stack and tools:
 <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
