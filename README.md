@@ -2,9 +2,10 @@
 ###  ✨✨✨go to sleep every day with the best version of yourself ✨✨✨
 -------
 ## 👋 Hi, I’m Aleksandr
+- 💪 I’m Sportsmen.
 - 👀 I’m interested in web application development.
 - 🌱 I’m currently learning JavaScript and React.
-- 💞️ I’m looking to collaborate in interesting companies.
+- 🤝 I’m looking to collaborate in interesting companies.
 - 📫 How to reach me: mail:  cnemirovka@gmail.com ✨ telegram: @nemirovka ✨
 ______
 ### My stack and tools:
