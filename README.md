@@ -1,7 +1,7 @@
 
 ###  ✨✨✨go to sleep every day with the best version of yourself ✨✨✨
 -------
-## 👋 Hi, I’m Aleksandr
+## 👋 Hi, I’m Alexandr
 - 💪 I’m Sportsmen.
 - 👀 I’m interested in web application development.
 - 🌱 I’m currently learning JavaScript and React.
